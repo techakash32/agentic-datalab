@@ -1,0 +1,6 @@
+[project]
+name = "agentic-datalab"
+version = "0.1.0"
+description = "Agentic AI-based Data Science Automation System"
+authors = [{name="Akash Nagar"}]
+dependencies = ["pandas", "numpy", "scikit-learn", "streamlit", "openai"]
